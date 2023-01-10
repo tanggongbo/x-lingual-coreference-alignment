@@ -33,3 +33,6 @@ The first digit of coreference chain IDs has different meaning, which is illustr
 |5 |unaligned source clusters |manually generated |
 |6 |unaligned target clusters |manually generated |
 |7 |clusters need to be revised or checked || 
+
+## Acknowledgement
+This project is a part of the research project "Neural Pronoun Models for Machine Translation", which is funded by the Swedish Research Council (grant 2017-930). 
