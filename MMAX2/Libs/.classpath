@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="annotationdiffplugin"/>
+	<classpathentry kind="src" path="MMAX2"/>
+	<classpathentry kind="lib" path="annotationdiffplugin.jar"/>
+	<classpathentry kind="lib" path="batik-1.5.1/batik-awt-util.jar"/>
+	<classpathentry kind="lib" path="batik-1.5.1/batik-dom.jar"/>
+	<classpathentry kind="lib" path="batik-1.5.1/batik-svggen.jar"/>
+	<classpathentry kind="lib" path="batik-1.5.1/batik-util.jar"/>
+	<classpathentry kind="lib" path="batik-1.5.1/batik-xml.jar"/>
+	<classpathentry kind="lib" path="jakarta-oro-2.0.8/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="MMAX2.jar"/>
+	<classpathentry kind="lib" path="xalan-j_2_7_2-bin/xalan.jar"/>
+	<classpathentry kind="lib" path="xalan-j_2_7_2-bin/xml-apis.jar"/>
+	<classpathentry kind="lib" path="Xerces-J-bin.2.12.1/serializer.jar"/>
+	<classpathentry kind="lib" path="Xerces-J-bin.2.12.1/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="Xerces-J-bin.2.12.1/xml-apis.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

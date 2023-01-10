@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_217" span="word_890..word_893" checking_class="set_118"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Inconsistent with the trg" />
+<markable id="markable_229" span="word_947..word_948" npmod="def-article"  split="simple antecedent"  checking_class="set_118"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Inconsistent with the trg" />
+<markable id="markable_377" span="word_579..word_588" checking_class="set_28"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Map to 35 in the trg? Inconsistent" />
+<markable id="markable_24" span="word_102" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_23"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Error, remove the 3rd mention and merge into 11?" />
+<markable id="markable_26" span="word_109" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_23"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Error, remove the 3rd mention and merge into 11?" />
+<markable id="markable_385" span="word_95..word_97" checking_class="set_23"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Error, remove the 3rd mention and merge into 11?" />
+<markable id="markable_150" span="word_593..word_594" npmod="demonstrative"  split="simple antecedent"  checking_class="set_28"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Map to 35 in the trg? Inconsistent" />
+</markables>

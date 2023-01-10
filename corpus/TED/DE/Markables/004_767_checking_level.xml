@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_9520" span="word_4059..word_4060" checking_class="set_389" mmax_level="checking" nptype="antecedent" mention="np"comment="Merge into 152?, to be consistent with the src" />
+<markable id="markable_3328" span="word_1400" type_of_pronoun="relative" agreement="none" split="simple antecedent" checking_class="set_329" mmax_level="checking" position="subject" type="anaphoric" antetype="entity" mention="pronoun"comment="Merge into 120, to be consistent with the src" />
+<markable id="markable_8059" span="word_3401..word_3402" checking_class="set_7371" mmax_level="checking" nptype="antecedent" mention="np"comment="Merge into 146, to be consistent with the src" />
+<markable id="markable_8060" span="word_3407" type_of_pronoun="personal" agreement="singular" split="simple antecedent" checking_class="set_7371" mmax_level="checking" position="non-subject" type="anaphoric" antetype="entity" mention="pronoun"comment="Merge into 146, to be consistent with the src" />
+<markable id="markable_11275" span="word_4067" type_of_pronoun="demonstrative" agreement="singular" split="simple antecedent" checking_class="set_389" mmax_level="checking" position="subject" type="anaphoric" antetype="entity" mention="pronoun"comment="Merge into 152?, to be consistent with the src" />
+<markable id="markable_11169" span="word_1398" checking_class="set_329" mmax_level="checking" nptype="antecedent" mention="np"comment="Merge into 120, to be consistent with the src" />
+</markables>

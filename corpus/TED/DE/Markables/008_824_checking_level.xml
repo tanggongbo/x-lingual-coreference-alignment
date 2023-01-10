@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_8533" span="word_2725" type_of_pronoun="demonstrative" agreement="singular" split="simple antecedent" checking_class="set_342" mmax_level="checking" position="subject" type="anaphoric" antetype="entity" mention="pronoun"comment="Merge into 142?, to be consistent with the src, inconsistent" />
+<markable id="markable_8532" span="word_2705" type_of_pronoun="demonstrative" agreement="plural" split="simple antecedent" checking_class="set_7341" mmax_level="checking" position="none" type="anaphoric" antetype="entity" mention="pronoun"comment="Merge into 142?, to be consistent with the src, inconsistent" />
+<markable id="markable_6496" span="word_2715" type_of_pronoun="personal" agreement="singular" split="simple antecedent" checking_class="set_7341" mmax_level="checking" position="subject" type="anaphoric" antetype="entity" mention="pronoun"comment="Merge into 142?, to be consistent with the src, inconsistent" />
+<markable id="markable_6497" span="word_2717..word_2723" checking_class="set_342" mmax_level="checking" nptype="antecedent" mention="np"comment="Merge into 142?, to be consistent with the src, inconsistent" />
+<markable id="markable_6446" span="word_2692..word_2703" checking_class="set_7341" mmax_level="checking" nptype="antecedent" mention="np"comment="Merge into 142?, to be consistent with the src, inconsistent" />
+</markables>

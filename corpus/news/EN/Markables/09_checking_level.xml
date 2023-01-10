@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable checking_class="set_12" id="markable_19" mention="np" mmax_level="checking" nptype="antecedent" span="word_205..word_210"comment="Modifiers compared to the target-side mention" />
+<markable agreement="singular" antetype="entity" checking_class="set_12" id="markable_20" mention="pronoun" mmax_level="checking" position="subject" span="word_212..word_212" split="simple antecedent" type="anaphoric" type_of_pronoun="relative"comment="Modifiers compared to the target-side mention" />
+</markables>

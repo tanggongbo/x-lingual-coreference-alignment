@@ -1,0 +1,224 @@
+########corpus_anno_v1/TED/EN/Markables/000_779_coref_level.xml########
+118	Inconsistent with the trg
+119	Inconsistent with the trg
+120	Inconsistent with the trg
+123	Inconsistent with the trg (7123)
+147	Inconsistent with the trg
+18	Inconsistent with the trg
+19	With 7213, mapping to 19, 7317 in the trg, but a mix, inconsistent
+25	Merge into 13, to be consistent with the target
+418	Inconsistent with the trg
+423	Inconsistent with the trg
+48	Inconsistent with the trg
+7210	Merge into 412, to be consistent with the target
+7213	With 19, mapping to 19, 7317 in the trg, but a mix, inconsistent
+7215	A subset of 7321
+7216	A subset of 7321
+7224	Merge into 45, to be consistent with the target
+7225	Merge into 45, to be consistent with the target
+7235	Merge into 46?
+7239	Merge into 46?
+7254	Merge into 148, to be consistent with the target
+729	Merge into 412, to be consistent with the target
+19	With 7317, mapping to 19, 7213 in the src, but a mix, inconsistent
+327	Inconsistent with the src
+328	Inconsistent with the src
+7123	Inconsistent with the src 123
+7317	Merge into 19
+7321	A merge of 7215 7216 in the src
+########corpus_anno_v1/TED/EN/Markables/001_769_coref_level.xml########
+111	Inconsistent with the trg
+112	Inconsistent with the trg
+411	Inconsistent with the trg
+7223	Merge into 128, to be consistent with the target
+31	Map to 22 in the src? Inconsistent
+350	Merge into 415?
+########corpus_anno_v1/TED/EN/Markables/002_792_coref_level.xml########
+44	Inconsistent with the trg
+7210	Merge into 12, to be consistent with the target
+726	Merge into 12, to be consistent with the target
+727	Merge into 12, to be consistent with the target
+728	Merge into 41, to be consistent with the target
+737	Merge into 41
+########corpus_anno_v1/TED/EN/Markables/003_799_coref_level.xml########
+212	Merge into 112, to be consistent with the target
+228	Merge into 47, to be consistent with the target
+44	Inconsistent with the trg
+47	Inconsistent with the trg
+7248	Merge into 147, to be consistent with the target
+7327	Merge into 19, to be consistent with the src
+7337	Merge into 134, to be consistent with the src
+7343	Merge into 143, to be consistent with the src
+########corpus_anno_v1/TED/EN/Markables/004_767_coref_level.xml########
+116	Inconsistent with the trg
+128	Inconsistent with the trg
+158	Inconsistent with the trg
+16	Inconsistent with the trg
+224	Merge into 125, to be consistent with the target
+228	Merge into 125, to be consistent with the target
+247	Merge into 138, to be consistent with the target
+412	Inconsistent with the trg
+413	Inconsistent with the trg
+430	Inconsistent with the trg
+329	Merge into 120, to be consistent with the src
+389	Merge into 152?, to be consistent with the src
+7371	Merge into 146, to be consistent with the src
+########corpus_anno_v1/TED/EN/Markables/005_790_coref_level.xml########
+112	Inconsistent with the trg
+119	Inconsistent with the trg
+13	Inconsistent with the trg
+133	Inconsistent with the trg
+426	Inconsistent with the trg
+7237	Merge into 427, to be consistent with the target
+728	Merge into 48, to be consistent with the target
+7319	Merge into 122, to be consistent with the src
+########corpus_anno_v1/TED/EN/Markables/006_785_coref_level.xml########
+219	Merge into 114?, to be consistent with the target
+414	Inconsistent with the trg
+415	Inconsistent with the trg
+7221	Merge into 116, to be consistent with the target
+7242	Merge into 129, to be consistent with the target
+314	Merge into 116, to be consistent with the src
+324	Merge into 410, to be consistent with the src
+########corpus_anno_v1/TED/EN/Markables/007_783_coref_level.xml########
+43	Inconsistent with the trg
+44	Inconsistent with the trg
+########corpus_anno_v1/TED/EN/Markables/008_824_coref_level.xml########
+144	Inconsistent with the trg
+211	Map to 312, but inconsistent
+7219	Merge into 128, to be consistent with the target
+342	Merge into 142?, to be consistent with the src, inconsistent
+7341	Merge into 142?, to be consistent with the src, inconsistent
+########corpus_anno_v1/TED/EN/Markables/010_837_coref_level.xml########
+118	Inconsistent with the trg
+23	Error, remove the 3rd mention and merge into 11?
+28	Map to 35 in the trg? Inconsistent
+7311	Merge into 117, to be consistent with the src
+########corpus_anno_v1/DiscoMT/EN/Markables/000_1756_coref_level.xml########
+120	Appositives not included, compared to the trg-side mentions
+232	Merge into 129?
+424	“the parents”, remove “I was interviewing”
+7229	Merge into 126
+7241	Merge into 146? Compare with the target-side 146
+7318	Merge into 114?
+7323	Merge into 115?
+7331	Merge into 115?
+7335	Inconsistence with the src-side 224 and 225
+738	Mapping 723 and 727 in the src
+########corpus_anno_v1/DiscoMT/EN/Markables/001_1819_coref_level.xml########
+115	Inconsistent with the trg 
+128	Remove the markable “these people”
+19	Inconsistent with the trg 
+414	Inconsistent with the trg 
+45	Inconsistent with the trg 
+7226	Merge of 7334 7335 7337 in the trg
+7228	Merge into 125
+7122	Mix of 7223 and 43
+7310	Merge into 18?
+734	Merge into 15?
+738	Merge into 18?
+########corpus_anno_v1/DiscoMT/EN/Markables/002_1825_coref_level.xml########
+113	Inconsistent with the trg 
+7217	merge with 7218, mapping 7316 in the trg
+7218	merge with 7217, mapping 7316 in the trg
+7316	Mapping 7217 and 7218 in the src
+########corpus_anno_v1/DiscoMT/EN/Markables/003_1894_coref_level.xml########
+119	Inconsistent with the trg 
+130	Inconsistent with the trg 
+420	Inconsistent with the trg 
+440	Inconsistent with the trg 
+7213	Merge of 315 307 in the trg, comparative case
+7313	Merge into 110?
+########corpus_anno_v1/DiscoMT/EN/Markables/005_1938_coref_level.xml########
+19	Inconsistent with the trg 
+236	Mapping to 334? Inconsistence
+416	Inconsistent with the trg 
+334	Mapping to 236? Inconsistence
+62	Inconsistence with the src-side 54 and 227
+7115	A merge of 218 219 220 in the source 
+7311	Should merge into 111
+########corpus_anno_v1/DiscoMT/EN/Markables/006_1950_coref_level.xml########
+112	Inconsistent with the trg 
+130	Inconsistent with the trg 
+267	Inconsistent with the trg 
+417	231, mapping to  337? Inconsistent
+422	Inconsistent with the trg 
+428	Inconsistent with the trg 
+7211	Merge of 314 315, 316 in the trg
+7270	Merge in to 11
+7355	Merge into 132?
+########corpus_anno_v1/DiscoMT/EN/Markables/007_1953_coref_level.xml########
+18	Inconsistent with the trg 
+48	Inconsistent with the trg 
+38	Error
+########corpus_anno_v1/DiscoMT/EN/Markables/009_2043_coref_level.xml########
+14	Inconsistent with the trg 
+7224	Merge of 7316 7317 in the trg
+7233	Merge in to 128?
+########corpus_anno_v1/DiscoMT/EN/Markables/010_205_coref_level.xml########
+112	Inconsistent with the trg 
+129	Inconsistent with the trg 
+210	Merge in to 17
+211	Merge in to 19 to be consistent with the trg
+29	Merge in to 17
+41	Inconsistent with the trg 
+411	Inconsistent with the trg 
+47	Inconsistent with the trg 
+7111	Merge in to 116, to be consistent with the trg?
+722	Merge in to 13, to be consistent with the target
+########corpus_anno_v1/DiscoMT/EN/Markables/011_2053_coref_level.xml########
+13	Inconsistent with the trg 
+45	Inconsistent with the trg 
+721	Merge in to 12, to be consistent with the target
+7210	Merge in to 12, to be consistent with the target
+7211	Merge in to 12, to be consistent with the target
+7213	Merge in to 12, to be consistent with the target
+7215	Merge in to 12, to be consistent with the target
+7216	Merge in to 12, to be consistent with the target
+7217	Merge in to 12, to be consistent with the target
+7224	Merge in to 12, to be consistent with the target
+7229	Merge in to 12, to be consistent with the target
+7232	Merge in to 12, to be consistent with the target
+726	Merge in to 12, to be consistent with the target
+727	Merge in to 12, to be consistent with the target
+731	Merge into 12
+########corpus_anno_v1/news/EN/Markables/01_coref_level.xml########
+41	2 errors in the last two sentences
+########corpus_anno_v1/news/EN/Markables/03_coref_level.xml########
+########corpus_anno_v1/news/EN/Markables/04_coref_level.xml########
+25	Merge to 16?
+########corpus_anno_v1/news/EN/Markables/05_coref_level.xml########
+722	Merge into 41
+110	Split into several mentions?
+731	Change to 41
+########corpus_anno_v1/news/EN/Markables/07_coref_level.xml########
+########corpus_anno_v1/news/EN/Markables/08_coref_level.xml########
+731	Merge into 11?
+########corpus_anno_v1/news/EN/Markables/09_coref_level.xml########
+12	Modifiers compared to the target-side mention
+########corpus_anno_v1/news/EN/Markables/10_coref_level.xml########
+721	Merge to 12?
+########corpus_anno_v1/news/EN/Markables/13_coref_level.xml########
+########corpus_anno_v1/news/EN/Markables/16_coref_level.xml########
+########corpus_anno_v1/news/EN/Markables/17_coref_level.xml########
+12	Und, merge mentions? Keep und?
+########corpus_anno_v1/news/EN/Markables/18_coref_level.xml########
+13	The first mention boundary
+14	The first mention boundary
+734	Merge into 11
+########corpus_anno_v1/news/EN/Markables/19_coref_level.xml########
+733	Should split to 2 clusters, mapping 22 and 23 in the source
+########corpus_anno_v1/news/EN/Markables/20_coref_level.xml########
+13	“and” included?
+########corpus_anno_v1/news/EN/Markables/21_coref_level.xml########
+110	Modifiers compared to the target-side mention
+15	Split into 2 clusters?
+18	Modifiers compared to the target-side mention
+########corpus_anno_v1/news/EN/Markables/22_coref_level.xml########
+########corpus_anno_v1/news/EN/Markables/23_coref_level.xml########
+18	Group problem, “and” “und”
+########corpus_anno_v1/news/EN/Markables/24_coref_level.xml########
+13	Include “the 37,000”? 
+########corpus_anno_v1/news/EN/Markables/25_coref_level.xml########
+721	Merge into 11?
+731	Merge into 11?

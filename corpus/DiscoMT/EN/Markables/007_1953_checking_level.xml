@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_1257" span="word_563" type_of_pronoun="demonstrative"  agreement="singular"  split="simple antecedent"  checking_class="set_18"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg " />
+<markable id="markable_1258" span="word_565" type_of_pronoun="demonstrative"  agreement="singular"  split="simple antecedent"  checking_class="set_18"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg " />
+<markable id="markable_114" span="word_538..word_539" checking_class="set_18"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Inconsistent with the trg " />
+<markable id="markable_116" span="word_547" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_18"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg " />
+<markable id="markable_93" span="word_417" checking_class="set_48"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Inconsistent with the trg " />
+<markable id="markable_97" span="word_435" type_of_pronoun="personal"  agreement="none"  split="simple antecedent"  checking_class="set_48"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg " />
+</markables>

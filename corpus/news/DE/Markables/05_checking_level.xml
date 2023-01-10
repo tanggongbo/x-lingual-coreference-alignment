@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable anacata="anaphoric" antetype="entity" checking_class="set_731" id="markable_21" mention="np" mmax_level="checking" npmod="def-article" nptype="np" span="word_148..word_150" split="simple antecedent"comment="Change to 41" />
+<markable agreement="plural" antetype="entity" checking_class="set_731" id="markable_22" mention="pronoun" mmax_level="checking" position="subject" span="word_157..word_157" split="simple antecedent" type="anaphoric" type_of_pronoun="personal"comment="Change to 41" />
+<markable checking_class="set_731" id="markable_5" mention="np" mmax_level="checking" nptype="antecedent" span="word_49..word_50"comment="Change to 41" />
+<markable checking_class="set_731" id="markable_6" mention="pronoun" mmax_level="checking" span="word_52..word_52" type="not sure. help!"comment="Change to 41" />
+<markable agreement="singular" antetype="entity" checking_class="set_110" id="markable_50" mention="pronoun" mmax_level="checking" position="subject" span="word_388..word_388" split="simple antecedent" type="anaphoric" type_of_pronoun="demonstrative"comment="Split into several mentions?" />
+<markable checking_class="set_731" id="markable_9" mention="pronoun" mmax_level="checking" span="word_65..word_65" type="not sure. help!"comment="Change to 41" />
+<markable checking_class="set_110" id="markable_46" mention="np" mmax_level="checking" nptype="antecedent" span="word_322..word_333"comment="Split into several mentions?" />
+<markable agreement="singular" antetype="entity" checking_class="set_110" id="markable_45" mention="pronoun" mmax_level="checking" position="subject" span="word_336..word_336" split="simple antecedent" type="anaphoric" type_of_pronoun="demonstrative"comment="Split into several mentions?" />
+<markable agreement="singular" antetype="entity" checking_class="set_110" id="markable_44" mention="pronoun" mmax_level="checking" position="subject" span="word_345..word_345" split="simple antecedent" type="anaphoric" type_of_pronoun="demonstrative"comment="Split into several mentions?" />
+</markables>

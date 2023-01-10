@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_25" span="word_378..word_379" checking_class="set_15"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Split into 2 clusters?" />
+<markable id="markable_24" span="word_387" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_15"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Split into 2 clusters?" />
+<markable id="markable_27" span="word_396" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_15"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Split into 2 clusters?" />
+<markable id="markable_43" span="word_556..word_559" checking_class="set_18"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Modifiers compared to the target-side mention" />
+<markable id="markable_46" span="word_699" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_110"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Modifiers compared to the target-side mention" />
+<markable id="markable_45" span="word_684..word_689" checking_class="set_110"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Modifiers compared to the target-side mention" />
+<markable id="markable_44" span="word_610" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_18"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Modifiers compared to the target-side mention" />
+</markables>

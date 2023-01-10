@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_1256" span="word_1278..word_1279" npmod="demonstrative"  split="simple antecedent"  checking_class="set_212"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Merge into 112, to be consistent with the target" />
+<markable id="markable_1015" span="word_4105..word_4106" npmod="demonstrative"  split="simple antecedent"  checking_class="set_7248"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Merge into 147, to be consistent with the target" />
+<markable id="markable_1137" span="word_1468..word_1470" npmod="demonstrative"  split="simple antecedent"  checking_class="set_44"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Inconsistent with the trg" />
+<markable id="markable_1352" span="word_2375" checking_class="set_228"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 47, to be consistent with the target" />
+<markable id="markable_1353" span="word_2376" type_of_pronoun="relative"  agreement="plural"  split="simple antecedent"  checking_class="set_228"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Merge into 47, to be consistent with the target" />
+<markable id="markable_589" span="word_2367" checking_class="set_47"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Inconsistent with the trg" />
+<markable id="markable_591" span="word_2373" type_of_pronoun="demonstrative"  agreement="singular"  split="simple antecedent"  checking_class="set_47"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg" />
+<markable id="markable_593" span="word_2379" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_47"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg" />
+<markable id="markable_597" span="word_2397" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_47"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg" />
+<markable id="markable_596" span="word_2394" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_47"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg" />
+<markable id="markable_367" span="word_1441..word_1447" checking_class="set_44"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Inconsistent with the trg" />
+<markable id="markable_371" span="word_1456" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_44"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Inconsistent with the trg" />
+<markable id="markable_994" span="word_4026..word_4027" npmod="def-article"  split="simple antecedent"  checking_class="set_7248"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Merge into 147, to be consistent with the target" />
+<markable id="markable_992" span="word_4014..word_4015" checking_class="set_7248"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 147, to be consistent with the target" />
+</markables>

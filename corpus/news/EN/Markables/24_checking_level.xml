@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_1" span="word_43..word_44" checking_class="set_13"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Include “the 37,000”? " />
+<markable id="markable_2" span="word_45" type_of_pronoun="relative"  agreement="plural"  split="simple antecedent"  checking_class="set_13"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Include “the 37,000”? " />
+</markables>

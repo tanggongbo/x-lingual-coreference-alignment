@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_5108" span="word_2138..word_2140" checking_class="set_7327"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 19, to be consistent with the src" />
+<markable id="markable_7782" span="word_3256" checking_class="set_7343"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 143, to be consistent with the src" />
+<markable id="markable_6574" span="word_2759" type_of_pronoun="personal"  agreement="none"  checking_class="set_7337"  mmax_level="checking"  position="none"  type="antecedent"  mention="pronoun" comment="Merge into 134, to be consistent with the src" />
+<markable id="markable_7984" span="word_3342..word_3343" agreement="none"  split="simple antecedent"  checking_class="set_7343"  mmax_level="checking"  nptype="np"  type="none"  sub_apposition="none"  antetype="entity"  mention="np" comment="Merge into 143, to be consistent with the src" />
+<markable id="markable_9551" span="word_2146..word_2148" split="simple antecedent"  checking_class="set_7327"  comparative="gen"  mmax_level="checking"  type="comparative"  antetype="generic"  mention="pronoun" comment="Merge into 19, to be consistent with the src" />
+<markable id="markable_6606" span="word_2767" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7337"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Merge into 134, to be consistent with the src" />
+<markable id="markable_9562" span="word_3331" type_of_pronoun="demonstrative"  agreement="singular"  split="simple antecedent"  checking_class="set_7343"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Merge into 143, to be consistent with the src" />
+</markables>

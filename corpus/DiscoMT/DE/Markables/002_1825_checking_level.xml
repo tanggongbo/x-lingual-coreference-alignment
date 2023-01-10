@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_221" span="word_1331" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7316"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mapping 7217 and 7218 in the src" />
+<markable id="markable_220" span="word_1325" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7316"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mapping 7217 and 7218 in the src" />
+<markable id="markable_222" span="word_1337" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7316"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mapping 7217 and 7218 in the src" />
+<markable id="markable_218" span="word_1296" type_of_pronoun="personal"  split="simple antecedent"  agreement="plural"  checking_class="set_7316"  mmax_level="checking"  position="subject"  type="anaphoric"  mention="pronoun"  antetype="entity" comment="Mapping 7217 and 7218 in the src" />
+<markable id="markable_217" span="word_1289" checking_class="set_7316"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Mapping 7217 and 7218 in the src" />
+<markable id="markable_219" span="word_1311" type_of_pronoun="personal"  split="simple antecedent"  agreement="plural"  checking_class="set_7316"  mmax_level="checking"  position="non-subject"  type="anaphoric"  mention="pronoun"  antetype="entity" comment="Mapping 7217 and 7218 in the src" />
+</markables>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_4710" span="word_1954" type_of_pronoun="personal" agreement="singular" split="simple antecedent" checking_class="set_324" mmax_level="checking" position="subject" type="anaphoric" antetype="entity" mention="pronoun"comment="Merge into 410, to be consistent with the src" />
+<markable id="markable_7276" span="word_1949..word_1952" checking_class="set_324" mmax_level="checking" nptype="antecedent" mention="np"comment="Merge into 410, to be consistent with the src" />
+<markable id="markable_3137" span="word_1313" type_of_pronoun="personal" agreement="singular" split="simple antecedent" checking_class="set_314" mmax_level="checking" position="subject" type="anaphoric" antetype="entity" mention="pronoun"comment="Merge into 116, to be consistent with the src" />
+</markables>

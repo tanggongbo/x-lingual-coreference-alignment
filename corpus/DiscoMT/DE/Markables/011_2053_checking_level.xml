@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_146" span="word_76" type_of_pronoun="possessive"  agreement="singular"  split="simple antecedent"  checking_class="set_731"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Merge into 12" />
+<markable id="markable_145" span="word_63..word_70" checking_class="set_731"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 12" />
+</markables>

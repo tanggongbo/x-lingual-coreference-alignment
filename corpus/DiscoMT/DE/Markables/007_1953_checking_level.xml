@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_287" span="word_539" type_of_pronoun="demonstrative"  agreement="none"  split="simple antecedent"  checking_class="set_38"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Error" />
+<markable id="markable_286" span="word_532" checking_class="set_38"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Error" />
+</markables>

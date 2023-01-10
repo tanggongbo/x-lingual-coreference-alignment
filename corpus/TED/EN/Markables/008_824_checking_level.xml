@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_291" span="word_1077..word_1078" npmod="demonstrative"  split="simple antecedent"  checking_class="set_211"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Map to 312, but inconsistent" />
+<markable id="markable_1015" span="word_1866" checking_class="set_7219"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 128, to be consistent with the target" />
+<markable id="markable_1235" span="word_2893..word_2896" checking_class="set_144"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Inconsistent with the trg" />
+<markable id="markable_1236" span="word_2901..word_2902" npmod="demonstrative"  split="simple antecedent"  checking_class="set_144"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="generic"  mention="np" comment="Inconsistent with the trg" />
+<markable id="markable_505" span="word_1889" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_7219"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Merge into 128, to be consistent with the target" />
+</markables>

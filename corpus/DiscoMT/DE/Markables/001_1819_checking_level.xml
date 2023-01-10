@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_205" span="word_618" type_of_pronoun="personal"  agreement="singular"  split="simple antecedent"  checking_class="set_7310"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Merge into 18?" />
+<markable id="markable_326" span="word_1888" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7122"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mix of 7223 and 43" />
+<markable id="markable_320" span="word_1851" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7122"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mix of 7223 and 43" />
+<markable id="markable_321" span="word_1857" type_of_pronoun="possessive"  agreement="plural"  split="simple antecedent"  checking_class="set_7122"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mix of 7223 and 43" />
+<markable id="markable_317" span="word_1838" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7122"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mix of 7223 and 43" />
+<markable id="markable_316" span="word_1834" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7122"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mix of 7223 and 43" />
+<markable id="markable_319" span="word_1843" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7122"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mix of 7223 and 43" />
+<markable id="markable_318" span="word_1821..word_1822" checking_class="set_7122"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Mix of 7223 and 43" />
+<markable id="markable_210" span="word_663..word_664" npmod="def-article"  split="simple antecedent"  checking_class="set_7310"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Merge into 18?" />
+<markable id="markable_207" span="word_650..word_651" npmod="demonstrative"  split="simple antecedent"  checking_class="set_7310"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Merge into 18?" />
+<markable id="markable_206" span="word_601..word_602" checking_class="set_7310"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 18?" />
+<markable id="markable_173" span="word_354..word_356" npmod="demonstrative"  split="simple antecedent"  checking_class="set_734"  mmax_level="checking"  anacata="anaphoric"  nptype="np"  antetype="entity"  mention="np" comment="Merge into 15?" />
+<markable id="markable_174" span="word_345" checking_class="set_734"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 15?" />
+<markable id="markable_199" span="word_563" type_of_pronoun="possessive"  agreement="singular"  split="simple antecedent"  checking_class="set_738"  mmax_level="checking"  position="non-subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Merge into 18?" />
+<markable id="markable_198" span="word_558..word_559" checking_class="set_738"  mmax_level="checking"  nptype="antecedent"  mention="np" comment="Merge into 18?" />
+<markable id="markable_418" span="word_1861" type_of_pronoun="personal"  agreement="plural"  split="simple antecedent"  checking_class="set_7122"  mmax_level="checking"  position="subject"  type="anaphoric"  antetype="entity"  mention="pronoun" comment="Mix of 7223 and 43" />
+</markables>

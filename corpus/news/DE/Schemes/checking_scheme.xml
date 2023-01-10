@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<annotationscheme>
+
+ <attribute id="level_checkingclass" name="Checking_class" color="red" width="2" type="markable_set"   style="lcurve" >
+  <value id="value_checkingclass" name="Checking_class"/>
+ </attribute>
+
+ <attribute id="comment" name="comment" type="nominal_list" text="comment"> <!-- You need to chose the type of the pronoun-->
+  <value id="Merge into 47, to be consistent with the target" name="Merge into 47, to be consistent with the target"/> 
+  <value id="Merge into 128, to be consistent with the target" name="Merge into 128, to be consistent with the target"/> 
+  <value id="Merge into 147, to be consistent with the target" name="Merge into 147, to be consistent with the target"/> 
+  <value id="A merge of 7215 7216 in the src" name="A merge of 7215 7216 in the src"/> 
+  <value id="Merge into 125, to be consistent with the target" name="Merge into 125, to be consistent with the target"/> 
+  <value id="Merge into 134, to be consistent with the src" name="Merge into 134, to be consistent with the src"/> 
+  <value id="Inconsistent with the src 123" name="Inconsistent with the src 123"/> 
+  <value id="Merge into 116, to be consistent with the target" name="Merge into 116, to be consistent with the target"/> 
+  <value id="Merge into 410, to be consistent with the src" name="Merge into 410, to be consistent with the src"/> 
+  <value id="Map to 22 in the src? Inconsistent" name="Map to 22 in the src? Inconsistent"/> 
+  <value id="Merge into 415?" name="Merge into 415?"/> 
+  <value id="Merge into 122, to be consistent with the src" name="Merge into 122, to be consistent with the src"/> 
+  <value id="Merge into 46?" name="Merge into 46?"/> 
+  <value id="Merge into 138, to be consistent with the target" name="Merge into 138, to be consistent with the target"/> 
+  <value id="Map to 35 in the trg? Inconsistent" name="Map to 35 in the trg? Inconsistent"/> 
+  <value id="With 7317, mapping to 19, 7213 in the src, but a mix, inconsistent" name="With 7317, mapping to 19, 7213 in the src, but a mix, inconsistent"/> 
+  <value id="Merge into 152?, to be consistent with the src" name="Merge into 152?, to be consistent with the src"/> 
+  <value id="Map to 312, but inconsistent" name="Map to 312, but inconsistent"/> 
+  <value id="Merge into 41" name="Merge into 41"/> 
+  <value id="Merge into 146, to be consistent with the src" name="Merge into 146, to be consistent with the src"/> 
+  <value id="Inconsistent with the trg" name="Inconsistent with the trg"/> 
+  <value id="Merge into 120, to be consistent with the src" name="Merge into 120, to be consistent with the src"/> 
+  <value id="Merge into 13, to be consistent with the target" name="Merge into 13, to be consistent with the target"/> 
+  <value id="Inconsistent with the src" name="Inconsistent with the src"/> 
+  <value id="Merge into 142?, to be consistent with the src, inconsistent" name="Merge into 142?, to be consistent with the src, inconsistent"/> 
+  <value id="Merge into 48, to be consistent with the target" name="Merge into 48, to be consistent with the target"/> 
+  <value id="Merge into 148, to be consistent with the target" name="Merge into 148, to be consistent with the target"/> 
+  <value id="Merge into 19" name="Merge into 19"/> 
+  <value id="A subset of 7321" name="A subset of 7321"/> 
+  <value id="Merge into 117, to be consistent with the src" name="Merge into 117, to be consistent with the src"/> 
+  <value id="61" name="61"/> 
+  <value id="Inconsistent with the trg (7123)" name="Inconsistent with the trg (7123)"/> 
+  <value id="Merge into 412, to be consistent with the target" name="Merge into 412, to be consistent with the target"/> 
+  <value id="Merge into 19, to be consistent with the src" name="Merge into 19, to be consistent with the src"/> 
+  <value id="Merge into 41, to be consistent with the target" name="Merge into 41, to be consistent with the target"/> 
+  <value id="With 7213, mapping to 19, 7317 in the trg, but a mix, inconsistent" name="With 7213, mapping to 19, 7317 in the trg, but a mix, inconsistent"/> 
+  <value id="Merge into 45, to be consistent with the target" name="Merge into 45, to be consistent with the target"/> 
+  <value id="51" name="51"/> 
+  <value id="Merge into 143, to be consistent with the src" name="Merge into 143, to be consistent with the src"/> 
+  <value id="Merge into 114?, to be consistent with the target" name="Merge into 114?, to be consistent with the target"/> 
+  <value id="With 19, mapping to 19, 7317 in the trg, but a mix, inconsistent" name="With 19, mapping to 19, 7317 in the trg, but a mix, inconsistent"/> 
+  <value id="Merge into 427, to be consistent with the target" name="Merge into 427, to be consistent with the target"/> 
+  <value id="Merge into 12, to be consistent with the target" name="Merge into 12, to be consistent with the target"/> 
+  <value id="Merge into 129, to be consistent with the target" name="Merge into 129, to be consistent with the target"/> 
+  <value id="Merge into 112, to be consistent with the target" name="Merge into 112, to be consistent with the target"/> 
+  <value id="Error, remove the 3rd mention and merge into 11?" name="Error, remove the 3rd mention and merge into 11?"/> 
+  <value id="Merge into 116, to be consistent with the src" name="Merge into 116, to be consistent with the src"/> 
+  <value id="Merge of 315 307 in the trg, comparative case" name="Merge of 315 307 in the trg, comparative case"/> 
+  <value id="Merge into 132?" name="Merge into 132?"/> 
+  <value id="Merge in to 17" name="Merge in to 17"/> 
+  <value id="Merge in to 128?" name="Merge in to 128?"/> 
+  <value id="Merge in to 116, to be consistent with the trg?" name="Merge in to 116, to be consistent with the trg?"/> 
+  <value id="Merge in to 19 to be consistent with the trg" name="Merge in to 19 to be consistent with the trg"/> 
+  <value id="Merge into 125" name="Merge into 125"/> 
+  <value id="A merge of 218 219 220 in the source " name="A merge of 218 219 220 in the source "/> 
+  <value id="Remove the markable “these people”" name="Remove the markable “these people”"/> 
+  <value id="Merge into 115?" name="Merge into 115?"/> 
+  <value id="Mapping 723 and 727 in the src" name="Mapping 723 and 727 in the src"/> 
+  <value id="merge with 7218, mapping 7316 in the trg" name="merge with 7218, mapping 7316 in the trg"/> 
+  <value id="Mapping to 334? Inconsistence" name="Mapping to 334? Inconsistence"/> 
+  <value id="Merge of 7316 7317 in the trg" name="Merge of 7316 7317 in the trg"/> 
+  <value id="Should merge into 111" name="Should merge into 111"/> 
+  <value id="Merge in to 11" name="Merge in to 11"/> 
+  <value id="Mapping 7217 and 7218 in the src" name="Mapping 7217 and 7218 in the src"/> 
+  <value id="Merge of 7334 7335 7337 in the trg" name="Merge of 7334 7335 7337 in the trg"/> 
+  <value id="238" name="238"/> 
+  <value id="Mapping to 236? Inconsistence" name="Mapping to 236? Inconsistence"/> 
+  <value id="Merge into 126" name="Merge into 126"/> 
+  <value id="376" name="376"/> 
+  <value id="Mix of 7223 and 43" name="Mix of 7223 and 43"/> 
+  <value id="Merge into 18?" name="Merge into 18?"/> 
+  <value id="231, mapping to  337? Inconsistent" name="231, mapping to  337? Inconsistent"/> 
+  <value id="Merge into 15?" name="Merge into 15?"/> 
+  <value id="Inconsistence with the src-side 224 and 225" name="Inconsistence with the src-side 224 and 225"/> 
+  <value id="Appositives not included, compared to the trg-side mentions" name="Appositives not included, compared to the trg-side mentions"/> 
+  <value id="merge with 7217, mapping 7316 in the trg" name="merge with 7217, mapping 7316 in the trg"/> 
+  <value id="Merge of 314 315, 316 in the trg" name="Merge of 314 315, 316 in the trg"/> 
+  <value id="Merge into 129?" name="Merge into 129?"/> 
+  <value id="Merge in to 12, to be consistent with the target" name="Merge in to 12, to be consistent with the target"/> 
+  <value id="Merge into 110?" name="Merge into 110?"/> 
+  <value id="Merge into 114?" name="Merge into 114?"/> 
+  <value id="Inconsistence with the src-side 54 and 227" name="Inconsistence with the src-side 54 and 227"/> 
+  <value id="Error" name="Error"/> 
+  <value id="Merge in to 13, to be consistent with the target" name="Merge in to 13, to be consistent with the target"/> 
+  <value id="“the parents”, remove “I was interviewing”" name="“the parents”, remove “I was interviewing”"/> 
+  <value id="Merge into 146? Compare with the target-side 146" name="Merge into 146? Compare with the target-side 146"/> 
+  <value id="Merge into 12" name="Merge into 12"/> 
+  <value id="Inconsistent with the trg " name="Inconsistent with the trg "/> 
+  <value id="Merge into 11?" name="Merge into 11?"/> 
+  <value id="Merge into 11" name="Merge into 11"/> 
+  <value id="Modifiers compared to the target-side mention" name="Modifiers compared to the target-side mention"/> 
+  <value id="Merge to 16?" name="Merge to 16?"/> 
+  <value id="Split into several mentions?" name="Split into several mentions?"/> 
+  <value id="Group problem, “and” “und”" name="Group problem, “and” “und”"/> 
+  <value id="Merge to 12?" name="Merge to 12?"/> 
+  <value id="The first mention boundary" name="The first mention boundary"/> 
+  <value id="2 errors in the last two sentences" name="2 errors in the last two sentences"/> 
+  <value id="Change to 41" name="Change to 41"/> 
+  <value id="41" name="41"/> 
+  <value id="Split into 2 clusters?" name="Split into 2 clusters?"/> 
+  <value id="Should split to 2 clusters, mapping 22 and 23 in the source" name="Should split to 2 clusters, mapping 22 and 23 in the source"/> 
+  <value id="Und, merge mentions? Keep und?" name="Und, merge mentions? Keep und?"/> 
+  <value id="“and” included?" name="“and” included?"/> 
+  <value id="Include “the 37,000”? " name="Include “the 37,000”? "/> 
+  <value id="Merge into 41" name="Merge into 41"/> 
+
+ </attribute>
+ 
+ 
+</annotationscheme>
